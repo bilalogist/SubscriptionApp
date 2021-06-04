@@ -1,0 +1,77 @@
+.heading {
+  font-size: 24px;
+  font-weight: 700;
+}
+.intro {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.4);
+  line-height: 32px;
+}
+.red {
+  background-color: red;
+}
+.pink {
+  background-color: pink;
+}
+
+.createDiscountHeading {
+  font-weight: 800;
+  font-size: 16px;
+}
+.notesHead {
+  color: #000000;
+  font-weight: bold;
+  font-size: 16px;
+}
+.notesContainer {
+  padding-left: 20px;
+}
+
+.leftBox {
+  border: 2px solid #dfdfdf;
+  border-radius: 4px;
+  padding: 15px;
+}
+
+.pointHead {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.rightCol {
+  background-color: white;
+}
+
+.card {
+  padding: 30px 14px 14px 14px;
+}
+.nestedBox {
+  border: 1px solid #dfdfdf;
+  border-radius: 4px;
+  padding: 15px;
+}
+
+.pb5 {
+  padding-bottom: 5rem;
+}
+
+.small {
+  font-size: smaller;
+}
+.inputVal {
+  width: 100px !important;
+  display: inline-block !important;
+  float: right;
+}
+
+.mr2 {
+  margin-right: 2rem !important;
+}
+
+.border {
+  border: 1px solid #dfdfdf;
+}
+
+.mb2 {
+  margin-bottom: 20px;
+}

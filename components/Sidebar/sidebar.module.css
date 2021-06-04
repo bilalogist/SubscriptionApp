@@ -1,0 +1,9 @@
+.menu_item {
+  font-weight: bold;
+  font-size: 0.9em;
+  align-items: center;
+}
+.submenu_items {
+  font-size: 0.8em;
+  font-weight: 500;
+}
